@@ -1,0 +1,41 @@
+_repo: A-capital-federal-impressoes-de-um-sertanejo_70121
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Coelho Netto, Henrique
+    aliases:
+    - Coelho Neto, Henrique Maximiano
+    - Neto, Henrique Coelho
+    - Netto, Coelho
+    - Netto, Henrique Coelho
+    - Neto, Coelho
+    - Ribas, Anselmo
+    birthdate: 1864
+    deathdate: 1934
+    gutenberg_agent_id: '9687'
+    url: http://www.gutenberg.org/2009/agents/9687
+    wikipedia:
+    - https://pt.wikipedia.org/wiki/Coelho_Neto
+    - https://en.wikipedia.org/wiki/Coelho_Neto
+description: ''
+gutenberg_issued: '2023-02-23'
+identifiers:
+  gutenberg: '70121'
+language: pt
+pgterms:marc904: https://archive.org/details/capitalfederalim00coeluoft/page/n5/mode/2up
+pgterms:marc905: 20220702064716netto
+pgterms:marc906: '1915'
+pgterms:marc907: PT
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aPortugal :$bLelo & Irmão, $c1915.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brazilian literature'
+- !lcsh 'Romance fiction, Brazilian'
+- !lcc 'PQ'
+- GITenberg
+title: A capital federal (impressões de um sertanejo)
+url: http://www.gutenberg.org/ebooks/70121
